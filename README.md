@@ -1,1 +1,1 @@
-# disc-hockey-api
+# disc-hockey-node-api
